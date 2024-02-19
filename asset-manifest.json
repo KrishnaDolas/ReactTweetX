@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/KrishnaDolas/ReactTweetX.git/static/css/main.a7ab2e2f.css",
-    "main.js": "/KrishnaDolas/ReactTweetX.git/static/js/main.19971003.js",
-    "static/js/592.5b1094bf.chunk.js": "/KrishnaDolas/ReactTweetX.git/static/js/592.5b1094bf.chunk.js",
-    "static/media/logo.svg": "/KrishnaDolas/ReactTweetX.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/KrishnaDolas/ReactTweetX.git/index.html",
-    "main.a7ab2e2f.css.map": "/KrishnaDolas/ReactTweetX.git/static/css/main.a7ab2e2f.css.map",
-    "main.19971003.js.map": "/KrishnaDolas/ReactTweetX.git/static/js/main.19971003.js.map",
-    "592.5b1094bf.chunk.js.map": "/KrishnaDolas/ReactTweetX.git/static/js/592.5b1094bf.chunk.js.map"
+    "main.css": "/ReactTweetX/.git/static/css/main.a7ab2e2f.css",
+    "main.js": "/ReactTweetX/.git/static/js/main.77ee232d.js",
+    "static/js/592.5b1094bf.chunk.js": "/ReactTweetX/.git/static/js/592.5b1094bf.chunk.js",
+    "static/media/logo.svg": "/ReactTweetX/.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactTweetX/.git/index.html",
+    "main.a7ab2e2f.css.map": "/ReactTweetX/.git/static/css/main.a7ab2e2f.css.map",
+    "main.77ee232d.js.map": "/ReactTweetX/.git/static/js/main.77ee232d.js.map",
+    "592.5b1094bf.chunk.js.map": "/ReactTweetX/.git/static/js/592.5b1094bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7ab2e2f.css",
-    "static/js/main.19971003.js"
+    "static/js/main.77ee232d.js"
   ]
 }
